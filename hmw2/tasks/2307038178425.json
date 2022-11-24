@@ -1,0 +1,1 @@
+{"id": "2307038178425", "version": "4", "layers_n": [400, 30, 400], "episode_n": 400, "trajectory_len": 500, "trajectory_n": 100, "q_param": 0.5, "lr": 0.01}
