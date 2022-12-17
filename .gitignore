@@ -1,0 +1,11 @@
+**/.ipynb_checkpoints**
+**__pycache__**
+**.mp4**
+**.~**
+hmw1/experiments*
+hmw1/policies
+hmw1/policy_maze
+hmw2/thtest
+hmw2/tasks*
+hmw2/experiments*
+hmw2/images*
